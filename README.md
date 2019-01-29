@@ -70,4 +70,4 @@ There are concerns that some people may use the content here to quickly ace the 
 
 ## Milestones
 
-  - **2019-01-30**: Finished the course, YAY! 😈
+  - **2019-01-30**: Finished all the 4 courses, YAY! 😈
